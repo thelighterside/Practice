@@ -18,11 +18,11 @@ Here are some words from the story you might not know:
 
 || Word       | Meaning        |
 |---|------------|----------------|
-|1| Compass   | an instrument for determining directions |
-|2|  Journey  | a traveling from one place to another |
-|3|   Magnetic  |     |
-|4| Desire  | |
-|5| Possession |  |
+|1| Compass    | an instrument for determining directions |
+|2| Journey    | a traveling from one place to another |
+|3| Magnetic   |  having the properties of a magnet   |
+|4| Desire     | to wish or long for |
+|5| Possession | something that you own or have with you at a particular time |
 
 ## 4. Reflection
 - Think about a time when you had to use your cleverness to solve a problem.
