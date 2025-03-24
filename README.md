@@ -10,6 +10,9 @@ Inspired, **Emma** went home to start her first painting, the compass now her mo
 
 ![Image of a Compass](<img src="https://raw.githubusercontent.com/MK316/Digital-Literacy-Class/main/materials/story03.png" width="237" height="230">)
 
+<img src="https://raw.githubusercontent.com/MK316/Digital-Literacy-Class/main/materials/story03.png" width="237" height="230">
+
+
 ## 2. Moral of the Story
 The moral of the story is: _"You can achieve your dreams if you put your mind to it."_ Never give up on your dreams.
 
