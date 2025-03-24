@@ -8,7 +8,7 @@ The compass led her to various places: a lonely old bookstore, a deserted park, 
 
 Inspired, **Emma** went home to start her first painting, the compass now her most treasured possession, guiding her not just through the city, but through her dreams.
 
-![Image of a Compass](https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story03.png)
+![Image of a Compass](<img src="https://raw.githubusercontent.com/MK316/Digital-Literacy-Class/main/materials/story03.png" width="237" height="230">)
 
 ## 2. Moral of the Story
 The moral of the story is: _"You can achieve your dreams if you put your mind to it."_ Never give up on your dreams.
